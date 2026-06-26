@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Riyaz2113/LEET-CODE/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Riyaz2113/LEET-CODE/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
