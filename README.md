@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Riyaz2113/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Riyaz2113/LEET-CODE/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Riyaz2113/LEET-CODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Riyaz2113/LEET-CODE/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Riyaz2113/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Riyaz2113/LEET-CODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Riyaz2113/LEET-CODE/tree/master/0137-single-number-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Riyaz2113/LEET-CODE/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Riyaz2113/LEET-CODE/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
