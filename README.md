@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Riyaz2113/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Riyaz2113/LEET-CODE/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Riyaz2113/LEET-CODE/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Riyaz2113/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Riyaz2113/LEET-CODE/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Riyaz2113/LEET-CODE/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Riyaz2113/LEET-CODE/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Riyaz2113/LEET-CODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Riyaz2113/LEET-CODE/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Riyaz2113/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Riyaz2113/LEET-CODE/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Riyaz2113/LEET-CODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Riyaz2113/LEET-CODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Riyaz2113/LEET-CODE/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Riyaz2113/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
