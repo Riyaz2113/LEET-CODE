@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Riyaz2113/LEET-CODE/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/Riyaz2113/LEET-CODE/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Riyaz2113/LEET-CODE/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/Riyaz2113/LEET-CODE/tree/master/0877-stone-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Riyaz2113/LEET-CODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Riyaz2113/LEET-CODE/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## String
@@ -86,8 +87,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Riyaz2113/LEET-CODE/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Riyaz2113/LEET-CODE/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/Riyaz2113/LEET-CODE/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Riyaz2113/LEET-CODE/tree/master/0002-add-two-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Riyaz2113/LEET-CODE/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Riyaz2113/LEET-CODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Riyaz2113/LEET-CODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Riyaz2113/LEET-CODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
